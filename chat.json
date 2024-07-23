@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Like' button with customizable reactions\", \"checked\": true}, {\"feature\": \"Include a text area for user comments beneath posts\", \"checked\": false}, {\"feature\": \"Implement a 'Share' button for easy content distribution\", \"checked\": true}, {\"feature\": \"Enable a customizable user profile avatar with hover text\", \"checked\": false}, {\"feature\": \"Incorporate a feedback button for user suggestions and reports\", \"checked\": true}, {\"feature\": \"Integrate a 'Follow' button for community members to follow each other\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 123, \"time_taken\": \"0:00:10.058559\"}",
+        "message_id": "guest23072024092348",
+        "timestamp": "23072024092400",
+        "component_file_name": "simple_cta_component_1721726505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned within the app interface?\", \"option1\": \"In the main navigation area.\", \"option2\": \"At the bottom of the screen as a floating action button.\"}, {\"question 2\": \"What action should occur when the 'Great' button is pressed?\", \"option1\": \"Navigate to a new page or view within the app.\", \"option2\": \"Trigger a popup or modal with additional information.\"}], \"input_token_count\": 258, \"output_token_count\": 108, \"time_taken\": \"0:00:08.059654\"}",
         "message_id": "guest23072024092348",
