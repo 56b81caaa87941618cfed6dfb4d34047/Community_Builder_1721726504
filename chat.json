@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it. Adding a button with the text \"Great\".",
+        "message_id": "guest23072024092348",
+        "timestamp": "23072024092350",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Great",
         "message_id": "guest23072024092348",
